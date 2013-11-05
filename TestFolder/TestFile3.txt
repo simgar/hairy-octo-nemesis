@@ -1,4 +1,3 @@
 Another test file in the TestFolder.
 Added a line.
-And another line.
 Added another line to the end of the test file.
